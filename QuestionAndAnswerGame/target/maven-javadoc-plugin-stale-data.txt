@@ -1,0 +1,68 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Chintu/Desktop/QuestionAndAnswerGame/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Chintu/Desktop/QuestionAndAnswerGame/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'QuestionAndAnswerGame 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'QuestionAndAnswerGame 1.0-SNAPSHOT API'
+'C:/Users/Chintu/Desktop/QuestionAndAnswerGame/src/main/java/Answer.java'
+'C:/Users/Chintu/Desktop/QuestionAndAnswerGame/src/main/java/Game.java'
+'C:/Users/Chintu/Desktop/QuestionAndAnswerGame/src/main/java/GameObserver.java'
+'C:/Users/Chintu/Desktop/QuestionAndAnswerGame/src/main/java/LogObserver.java'
+'C:/Users/Chintu/Desktop/QuestionAndAnswerGame/src/main/java/Question.java'
+'C:/Users/Chintu/Desktop/QuestionAndAnswerGame/src/main/java/QuestionFactory.java'
+'C:/Users/Chintu/Desktop/QuestionAndAnswerGame/src/main/java/QuizGame.java'
+'C:/Users/Chintu/Desktop/QuestionAndAnswerGame/src/main/java/ScoreObserver.java'
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\src\main\java\Answer.java = 1681644504204
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\src\main\java\Game.java = 1681831020270
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\src\main\java\GameObserver.java = 1681644426551
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\src\main\java\LogObserver.java = 1681645913208
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\src\main\java\Question.java = 1681644469700
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\src\main\java\QuestionFactory.java = 1681644619195
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\src\main\java\QuizGame.java = 1681831046494
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\src\main\java\ScoreObserver.java = 1681645847370
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\src\main\java = 1681831046560
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\allclasses-index.html = 1681831167500
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\allpackages-index.html = 1681831167504
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\Answer.html = 1681831167266
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\element-list = 1681831167384
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\Game.html = 1681831167287
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\GameObserver.html = 1681831167299
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\help-doc.html = 1681831167541
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\index-all.html = 1681831167537
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\index.html = 1681831167540
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\jquery-ui.overrides.css = 1681831167604
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\LogObserver.html = 1681831167321
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\member-search-index.js = 1681831167512
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\module-search-index.js = 1681831167506
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\overview-tree.html = 1681831167477
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\package-search-index.js = 1681831167508
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\package-summary.html = 1681831167399
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\package-tree.html = 1681831167407
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\package-use.html = 1681831167470
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\Question.html = 1681831167340
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\QuestionFactory.html = 1681831167354
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\QuizGame.html = 1681831167368
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\ScoreObserver.html = 1681831167382
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\script.js = 1681831167556
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\search.js = 1681831167560
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\stylesheet.css = 1681831167549
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\tag-search-index.js = 1681831167515
+C:\Users\Chintu\Desktop\QuestionAndAnswerGame\target\site\apidocs\type-search-index.js = 1681831167510
